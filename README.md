@@ -35,7 +35,8 @@ The dual-line chart illustrates sales and profit trends quarterly. The solid lin
 
 ## Entity-Relationship Diagram (ERD)
 
-
+## Dashboard Screenshot
+![Quaterly Sales Dashboard](https://github.com/user-attachments/assets/4b624c71-7f3f-4f38-9d5f-db4a0ffd0cba)
 
 ## Conclusion
 This Tableau Dashboard is a powerful tool for visualizing and analyzing quarterly sales performance across different countries and subcategories. By implementing the recommended changes, the dashboard can become even more user-friendly and insightful.
