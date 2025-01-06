@@ -45,7 +45,7 @@ This chart illustrates both sales and profit trends over time, with solid lines 
 - **Interactive Charts:** Clicking on elements in the bubble chart or dual-line chart filters data across the entire dashboard, providing a seamless analytical experience.
 
 ## Quick Access
-PLease feel free to quickly check the dashboard using the below link:
+Please feel free to quickly check the dashboard using the below link:
 https://shorturl.at/1tBLT
 
 ## Entity-Relationship Diagram (ERD)
