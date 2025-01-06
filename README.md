@@ -1,4 +1,4 @@
-Here’s a revised README for the **Quarterly Sales Dashboard** that emphasizes its value from a stakeholder perspective, showcasing the problems it addresses and the insights it provides.
+## **Quarterly Sales Dashboard**
 
 ---
 
