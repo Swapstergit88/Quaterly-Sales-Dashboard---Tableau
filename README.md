@@ -1,10 +1,8 @@
 # Quaterly-Sales-Dashboard---Tableau
 
-Absolutely, here’s a detailed README for your Tableau Dashboard that will effectively communicate its features and functionality to stakeholders.
+Here’s a detailed README for Tableau Dashboard that will effectively communicate its features and functionality to stakeholders.
 
 ---
-
-# Sales Performance Dashboard
 
 ## Overview
 This Tableau Dashboard offers an in-depth analysis of quarterly sales performance across different countries and product subcategories. The dashboard is designed to be highly interactive, enabling users to dynamically filter and explore the data. It serves as a crucial tool for stakeholders, providing insights that drive informed decision-making and strategic planning.
