@@ -41,7 +41,7 @@ The dual-line chart illustrates sales and profit trends quarterly. The solid lin
 ## Conclusion
 This Tableau Dashboard is a powerful tool for visualizing and analyzing quarterly sales performance across different countries and subcategories. By implementing the recommended changes, the dashboard can become even more user-friendly and insightful.
 
-Feel free to use and modify this README as needed for your GitHub repository! If you have any more questions or need further adjustments, let me know.
+Feel free to use and modify this README as needed! If you have any more questions or need further adjustments, let me know.
 
 Swapnil Kakade
 connectinglobe7@gmail.com
