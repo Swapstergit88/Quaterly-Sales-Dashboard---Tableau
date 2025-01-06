@@ -46,7 +46,7 @@ This chart illustrates both sales and profit trends over time, with solid lines 
 
 ## Quick Access
 Please feel free to quickly check the dashboard using the below link:
-https://shorturl.at/1tBLT
+https://shorturl.at/JPjLa
 
 ## Entity-Relationship Diagram (ERD)
 *To be included if applicable.*
