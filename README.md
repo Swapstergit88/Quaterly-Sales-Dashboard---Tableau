@@ -48,7 +48,8 @@ This chart illustrates both sales and profit trends over time, with solid lines 
 *To be included if applicable.*
 
 ## Dashboard Screenshot
-Quarterly Sales Dashboard
+![Quaterly Sales Dashboard](https://github.com/user-attachments/assets/6be15fe6-b344-4597-9210-9f4b8623c2f5)
+
 
 ## Conclusion
 The **Quarterly Sales Dashboard** is an essential tool for visualizing and analyzing quarterly sales performance across different countries and product subcategories. By addressing challenges related to data visibility, analysis efficiency, trend identification, and filtering capabilities, this dashboard empowers stakeholders with actionable insights that drive strategic decisions.
